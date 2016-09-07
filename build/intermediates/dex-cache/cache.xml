@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/cjkriese/Desktop/sfsu/csc780/chathub-android-start/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="/Users/cjkriese/Desktop/sfsu/csc780/chathub-android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.0.0_bb4b1f2a8368a4f34f675e26f31b4b873ab271ce/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cjkriese/Desktop/sfsu/csc780/chathub-android-start/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/Users/cjkriese/Desktop/sfsu/csc780/chathub-android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.2.1_10f5a6362f0748bd133a1265d8489b795c9e3228/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cjkriese/Desktop/sfsu/csc780/chathub-android-start/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5f0f6913a208a126269aaa68004ed0329a832c5b">
+        <dex dex="/Users/cjkriese/Desktop/sfsu/csc780/chathub-android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.0.0_5f5af31c3045cc5cbd20499045288156f0732a80/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cjkriese/Desktop/sfsu/csc780/chathub-android-start/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="/Users/cjkriese/Desktop/sfsu/csc780/chathub-android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.0.0_f60b59797eaccc6f1d08e888d17ba36eac42b64e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cjkriese/Desktop/sfsu/csc780/chathub-android-start/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7a23185c9b1c100e7d1a32275017e4712e31c796">
+        <dex dex="/Users/cjkriese/Desktop/sfsu/csc780/chathub-android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.0.0_f671de43067cbe92f2f797638d4df36363ae6f3f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cjkriese/Desktop/sfsu/csc780/chathub-android-start/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="/Users/cjkriese/Desktop/sfsu/csc780/chathub-android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.0.0_efac57ad6af6de624ee42c5719d808aaa81906e8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cjkriese/Desktop/sfsu/csc780/chathub-android-start/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/cjkriese/Desktop/sfsu/csc780/chathub-android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.1.1_f1c624e349f34c1faf8eb001ad93fd2da64a7dec/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cjkriese/Desktop/sfsu/csc780/chathub-android-start/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="/Users/cjkriese/Desktop/sfsu/csc780/chathub-android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.0.0_d9abe7fbf9e3cd92b711d3ed92e08413b681728f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cjkriese/Desktop/sfsu/csc780/chathub-android-start/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ef5c5c2afbd174d55cf1cfcac7d0346cbc4c1322">
+        <dex dex="/Users/cjkriese/Desktop/sfsu/csc780/chathub-android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.0.0_fb7aa9ab8455ac009bc5edb221a79f3c1c116c6e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cjkriese/Desktop/sfsu/csc780/chathub-android-start/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="005786793d72c6deacbbbfd38177ed58e1aa6653">
+        <dex dex="/Users/cjkriese/Desktop/sfsu/csc780/chathub-android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.0.0_69a16488f2d1c0a2f4d86b7879e14d5c8cecca1d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cjkriese/Desktop/sfsu/csc780/chathub-android-start/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="70ddab48594608953b20164b82f1f890a9a8174a">
+        <dex dex="/Users/cjkriese/Desktop/sfsu/csc780/chathub-android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.0.0_72d4ef0717d9f299caca1866e41fa921332aa738/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cjkriese/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/cjkriese/Desktop/sfsu/csc780/chathub-android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.2.1_e62b1a749faeeae6c556c4db9ffd7a343e489ff2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cjkriese/Desktop/sfsu/csc780/chathub-android-start/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/Users/cjkriese/Desktop/sfsu/csc780/chathub-android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.2.1_a25eaab58970b7622083245df2d50cf32b34c12d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cjkriese/Desktop/sfsu/csc780/chathub-android-start/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/cjkriese/Desktop/sfsu/csc780/chathub-android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.2.1_92b675ffc48733577028133486ab919e95421189/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cjkriese/Desktop/sfsu/csc780/chathub-android-start/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="32a5a566ae197603d0bed3e6d1d275f6a771564e">
+        <dex dex="/Users/cjkriese/Desktop/sfsu/csc780/chathub-android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.0.0_daaaf34be6de220532f4d7b17f2d55720990b2d6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cjkriese/Desktop/sfsu/csc780/chathub-android-start/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d96f9f3ef66494d1231304cafd28c962dda80dea">
+        <dex dex="/Users/cjkriese/Desktop/sfsu/csc780/chathub-android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.0.0_9ccd74912687e130310536cc58912a37be4ae0ff/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cjkriese/Desktop/sfsu/csc780/chathub-android-start/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/cjkriese/Desktop/sfsu/csc780/chathub-android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.2.1_7e4504e83ba87f32cc4d29877bbd57dc1347fefc/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cjkriese/Desktop/sfsu/csc780/chathub-android-start/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/Users/cjkriese/Desktop/sfsu/csc780/chathub-android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.2.1_7b4235be2dfd1896bef4cd8fda1a3d92008eddf1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cjkriese/Desktop/sfsu/csc780/chathub-android-start/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-database/0.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c76f6507a42aec274953e882bf3c49a570843ef5">
+        <dex dex="/Users/cjkriese/Desktop/sfsu/csc780/chathub-android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.firebaseui-firebase-ui-database-0.4.0_047ac16725ba04a9cca9af86038365174d8ba8f1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cjkriese/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.1/86b122e640af09b0723e1fa44083c354ba6d9089/glide-3.6.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="/Users/cjkriese/Desktop/sfsu/csc780/chathub-android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.6.1_f4523fc0e4632d5dba62558458dee3e0a679c789/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cjkriese/Desktop/sfsu/csc780/chathub-android-start/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/Users/cjkriese/Desktop/sfsu/csc780/chathub-android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.2.1_99c410d970240b620515724e24b6ae265b361f12/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cjkriese/Desktop/sfsu/csc780/chathub-android-start/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="/Users/cjkriese/Desktop/sfsu/csc780/chathub-android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.0.0_5cb25415d3f5e3fde575e31f7baa96653f273573/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cjkriese/Desktop/sfsu/csc780/chathub-android-start/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="24536a7b97926a9c155c88425da6875adeb11b51">
+        <dex dex="/Users/cjkriese/Desktop/sfsu/csc780/chathub-android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.0.0_a4c32340f6afd29beeb0e28844f870d9b2902229/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cjkriese/Desktop/sfsu/csc780/chathub-android-start/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7da84426d876216ed4cdddd85e739be5ecabdd04">
+        <dex dex="/Users/cjkriese/Desktop/sfsu/csc780/chathub-android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.0.0_df4641d1113c92d20d85fe95779a13b266dc2de5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cjkriese/Desktop/sfsu/csc780/chathub-android-start/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="/Users/cjkriese/Desktop/sfsu/csc780/chathub-android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.0.0_3d4013d6dfa6436e09e4129cad56711624b42fcb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cjkriese/Desktop/sfsu/csc780/chathub-android-start/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ebfde1a055aea400df77584a68aa60609f618bed">
+        <dex dex="/Users/cjkriese/Desktop/sfsu/csc780/chathub-android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.0.0_5efecd024e11af5e27b36420a47025f7fa055785/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cjkriese/Desktop/sfsu/csc780/chathub-android-start/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7e467a973b749c6390a5991c9a8edbde96fc10c9">
+        <dex dex="/Users/cjkriese/Desktop/sfsu/csc780/chathub-android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.0.0_e07eedb1d9a5812243fe11a230f6f937178e05e5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cjkriese/Desktop/sfsu/csc780/chathub-android-start/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="/Users/cjkriese/Desktop/sfsu/csc780/chathub-android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.0.0_5800ee29a8ec321b7d60576d926ed9c347a74bbe/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cjkriese/Desktop/sfsu/csc780/chathub-android-start/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/1.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="/Users/cjkriese/Desktop/sfsu/csc780/chathub-android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/de.hdodenhof-circleimageview-1.3.0_077afd608112e669a354bf2d6421bba89522a1c2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cjkriese/Desktop/sfsu/csc780/chathub-android-start/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8719a4febdeb1997b5c5c4f779d1be502a434500">
+        <dex dex="/Users/cjkriese/Desktop/sfsu/csc780/chathub-android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_463c6b6cf5fbd85e278365ed1e2c9d7e59ddd401/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cjkriese/Desktop/sfsu/csc780/chathub-android-start/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0af3fec3a78eb0fb2bff0ae8cfa551a01273e85e">
+        <dex dex="/Users/cjkriese/Desktop/sfsu/csc780/chathub-android-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0fc9fa524257259197e50e1aa8b69c359d084992/classes.dex" />
+    </item>
+
+</items>
