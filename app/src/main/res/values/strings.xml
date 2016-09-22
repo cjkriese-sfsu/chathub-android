@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChatHub</string>
+    <string name="welcome_msg">Welcome!</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="contacts_permission_rationale">Access to account information is required to sign in.</string>
+    <string name="sign_in">Sign In</string>
+</resources>
