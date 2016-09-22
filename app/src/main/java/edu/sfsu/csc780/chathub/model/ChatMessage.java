@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package edu.sfsu.csc780.chathub;
+package edu.sfsu.csc780.chathub.model;
 
 public class ChatMessage {
 
